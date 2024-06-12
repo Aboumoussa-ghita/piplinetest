@@ -4,6 +4,9 @@
 
 ## Table of Contents
 
+- [Why I Chose This Project](#why-i-chose-this-project)
+- [Tech Stack Used](#tech-stack-used)
+- [Challenges Faced](#challenges-faced)
 - [User Interface (UI)](#user-interface-ui)
 - [Read Project Article](#learn-more-about-this-project)
 - [Demo Link](#demo-link)
