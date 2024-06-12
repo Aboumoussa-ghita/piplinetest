@@ -6,7 +6,6 @@
 
 - [Why I Chose This Project](#why-i-chose-this-project)
 - [User Interface (UI)](#user-interface-ui)
-- [Read Project Article](#learn-more-about-this-project)
 - [Demo Link](#demo-link)
 - [API Endpoints](#api-endpoints)
 - [Setup Guide](#setup-guide)
